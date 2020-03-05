@@ -297,7 +297,8 @@ footer p{
 
 #manager_pic{
     float: right;
-    width: 15.5%;
+    width: 10%;
+    height: 10%;
 }
 
 .manager p{
